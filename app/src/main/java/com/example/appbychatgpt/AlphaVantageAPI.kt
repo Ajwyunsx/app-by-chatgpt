@@ -7,7 +7,7 @@ import retrofit2.http.Query
 interface AlphaVantageAPI {
   companion object {
     const val BASE_URL = "https://www.alphavantage.co/"
-    const val API_KEY = "YOUR_API_KEY_HERE"
+    const val API_KEY = "XTNA4BQD2XVE9Q0B"
   }
 
   @GET("query")
